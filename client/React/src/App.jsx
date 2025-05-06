@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1 className='iib'>Life no suppose Hard</h1>
+        <h1 className='iib'>Mind you , This is just a Training "Life No suppose Hard at all" <span>God is Alive</span></h1>
       </div>
     </>
   )
